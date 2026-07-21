@@ -4,6 +4,8 @@
 - it always seems impossible until it's done .
 
 
-- Come take a look cause why not ?
+- Come take a look, cause why not ?
 
-![My Cool GIF](the-mentalist-patrick-jane.gif)
+<p align="center">
+  <img src="the-mentalist-patrick-jane.gif" width="400" alt="My Cool GIF">
+</p>
